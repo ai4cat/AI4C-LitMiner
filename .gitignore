@@ -1,0 +1,6 @@
+.DS_Store
+**/**/**/model/
+**/**/**/model_O2/
+ORR/output/~$extracted_catalyst_data_aggregated_v6_EN.xlsx
+*.png
+/data
