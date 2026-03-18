@@ -10,6 +10,7 @@ For further details, you are encouraged to consult our [paper](https://) and vis
 
 ### Development Environment
 - Python 3.12
+- Google Gemini API
 - Validated on Windows OS
 - Use `conda env create -f litminer.yml` to create the enviornment.
 
