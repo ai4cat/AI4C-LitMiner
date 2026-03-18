@@ -24,11 +24,7 @@ cd AI4C-LitMiner
 
 ## Data Availability & Copyright Notice
 
-The dataset used in this project is NOT publicly distributed due to copyright and licensing restrictions. The input data consist of published scientific articles, which are typically:
-
-Protected by publisher copyright
-
-Accessible only through institutional subscriptions or paid access
+The dataset used in this project is NOT publicly distributed due to copyright and licensing restrictions. The input data consist of published scientific articles, which are typically protected by publisher copyright and accessible only through institutional subscriptions or paid access.
 
 As a result:
 
@@ -36,9 +32,7 @@ As a result:
 
 ❌ We do not redistribute full-text literature
 
-Users are required to:
-
-Obtain the relevant publications through legal and authorized channels (e.g., institutional access, publisher purchase)
+Users are required to obtain the relevant publications through legal and authorized channels (e.g., institutional access, publisher purchase).
 
 This repository only provides:
 
@@ -80,6 +74,6 @@ If you use our code in your research, please cite our paper:
 
 ## **License**
 
-**MatDataMiner** is released under the **MIT License**.
+This project is released under the **MIT License**.
 
 For the full license text, please refer to the [MIT License](https://github.com/ai4cat/AI4C-LitMiner/blob/main/LICENSE) file.
