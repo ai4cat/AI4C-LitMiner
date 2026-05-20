@@ -73,4 +73,4 @@ If you use our code in your research, please cite our paper:
 ```
 
 ## **License**
-This project is licensed under the [CC-BY-ND-NC License](https://github.com/ai4cat/AI4C-LitMiner/blob/main/LICENSE). Please see the LICENSE file for more details.
+This project is licensed under the [Apache-2.0 license](https://github.com/ai4cat/AI4C-LitMiner/blob/main/LICENSE). Please see the LICENSE file for more details.
